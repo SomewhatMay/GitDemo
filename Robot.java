@@ -3,5 +3,6 @@ public class Robot {
 		System.out.println("Hello, Arctos!");
 		Arm arm = new Arm();
 		Shooter shooter = new Shooter();
+		System.out.println("Hello Ben!");
 	}
 }
